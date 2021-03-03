@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AbstractFactoryPattern_Demo/1.0.0": {
+        "dependencies": {
+          "AbstractFactoryPattern.AbstractFactory": "1.0.0",
+          "AbstractFactoryPattern.Interface": "1.0.0"
+        },
+        "runtime": {
+          "AbstractFactoryPattern_Demo.dll": {}
+        }
+      },
+      "AbstractFactoryPattern.AbstractFactory/1.0.0": {
+        "dependencies": {
+          "AbstractFactoryPattern.Interface": "1.0.0",
+          "AbstractFactoryPattern.Service": "1.0.0"
+        },
+        "runtime": {
+          "AbstractFactoryPattern.AbstractFactory.dll": {}
+        }
+      },
+      "AbstractFactoryPattern.Interface/1.0.0": {
+        "runtime": {
+          "AbstractFactoryPattern.Interface.dll": {}
+        }
+      },
+      "AbstractFactoryPattern.Service/1.0.0": {
+        "dependencies": {
+          "AbstractFactoryPattern.Interface": "1.0.0"
+        },
+        "runtime": {
+          "AbstractFactoryPattern.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbstractFactoryPattern_Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AbstractFactoryPattern.AbstractFactory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AbstractFactoryPattern.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AbstractFactoryPattern.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

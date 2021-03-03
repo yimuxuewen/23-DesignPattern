@@ -1,0 +1,9 @@
+E:\Reaper\23种设计模式\23_DesignPattern_Src\AbstractFactoryPattern.Interface\bin\Debug\netcoreapp3.1\AbstractFactoryPattern.Interface.deps.json
+E:\Reaper\23种设计模式\23_DesignPattern_Src\AbstractFactoryPattern.Interface\bin\Debug\netcoreapp3.1\AbstractFactoryPattern.Interface.dll
+E:\Reaper\23种设计模式\23_DesignPattern_Src\AbstractFactoryPattern.Interface\bin\Debug\netcoreapp3.1\AbstractFactoryPattern.Interface.pdb
+E:\Reaper\23种设计模式\23_DesignPattern_Src\AbstractFactoryPattern.Interface\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.Interface.csprojAssemblyReference.cache
+E:\Reaper\23种设计模式\23_DesignPattern_Src\AbstractFactoryPattern.Interface\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.Interface.AssemblyInfoInputs.cache
+E:\Reaper\23种设计模式\23_DesignPattern_Src\AbstractFactoryPattern.Interface\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.Interface.AssemblyInfo.cs
+E:\Reaper\23种设计模式\23_DesignPattern_Src\AbstractFactoryPattern.Interface\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.Interface.csproj.CoreCompileInputs.cache
+E:\Reaper\23种设计模式\23_DesignPattern_Src\AbstractFactoryPattern.Interface\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.Interface.dll
+E:\Reaper\23种设计模式\23_DesignPattern_Src\AbstractFactoryPattern.Interface\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.Interface.pdb

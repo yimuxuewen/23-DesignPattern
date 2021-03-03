@@ -1,0 +1,12 @@
+E:\Reaper\23种设计模式\23_DesignPattern_Src\AbstractFactoryPattern.Service\bin\Debug\netcoreapp3.1\AbstractFactoryPattern.Service.deps.json
+E:\Reaper\23种设计模式\23_DesignPattern_Src\AbstractFactoryPattern.Service\bin\Debug\netcoreapp3.1\AbstractFactoryPattern.Service.dll
+E:\Reaper\23种设计模式\23_DesignPattern_Src\AbstractFactoryPattern.Service\bin\Debug\netcoreapp3.1\AbstractFactoryPattern.Service.pdb
+E:\Reaper\23种设计模式\23_DesignPattern_Src\AbstractFactoryPattern.Service\bin\Debug\netcoreapp3.1\AbstractFactoryPattern.Interface.dll
+E:\Reaper\23种设计模式\23_DesignPattern_Src\AbstractFactoryPattern.Service\bin\Debug\netcoreapp3.1\AbstractFactoryPattern.Interface.pdb
+E:\Reaper\23种设计模式\23_DesignPattern_Src\AbstractFactoryPattern.Service\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.Service.csprojAssemblyReference.cache
+E:\Reaper\23种设计模式\23_DesignPattern_Src\AbstractFactoryPattern.Service\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.Service.AssemblyInfoInputs.cache
+E:\Reaper\23种设计模式\23_DesignPattern_Src\AbstractFactoryPattern.Service\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.Service.AssemblyInfo.cs
+E:\Reaper\23种设计模式\23_DesignPattern_Src\AbstractFactoryPattern.Service\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.Service.csproj.CoreCompileInputs.cache
+E:\Reaper\23种设计模式\23_DesignPattern_Src\AbstractFactoryPattern.Service\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.Service.csproj.CopyComplete
+E:\Reaper\23种设计模式\23_DesignPattern_Src\AbstractFactoryPattern.Service\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.Service.dll
+E:\Reaper\23种设计模式\23_DesignPattern_Src\AbstractFactoryPattern.Service\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.Service.pdb

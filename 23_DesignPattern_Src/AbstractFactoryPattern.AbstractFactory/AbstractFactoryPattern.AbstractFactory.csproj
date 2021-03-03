@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AbstractFactoryPattern.Interface\AbstractFactoryPattern.Interface.csproj" />
+    <ProjectReference Include="..\AbstractFactoryPattern.Service\AbstractFactoryPattern.Service.csproj" />
+  </ItemGroup>
+
+</Project>
