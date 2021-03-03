@@ -1,0 +1,16 @@
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FactoryPattern.FactoryMethod\bin\Debug\netcoreapp3.1\FactoryPattern.FactoryMethod.deps.json
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FactoryPattern.FactoryMethod\bin\Debug\netcoreapp3.1\FactoryPattern.FactoryMethod.dll
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FactoryPattern.FactoryMethod\bin\Debug\netcoreapp3.1\FactoryPattern.FactoryMethod.pdb
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FactoryPattern.FactoryMethod\bin\Debug\netcoreapp3.1\FactoryPattern.War3.Interface.dll
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FactoryPattern.FactoryMethod\bin\Debug\netcoreapp3.1\FactoryPattern.War3.Service.dll
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FactoryPattern.FactoryMethod\bin\Debug\netcoreapp3.1\FactoryPattern.War3.Interface.pdb
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FactoryPattern.FactoryMethod\bin\Debug\netcoreapp3.1\FactoryPattern.War3.Service.pdb
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FactoryPattern.FactoryMethod\obj\Debug\netcoreapp3.1\FactoryPattern.FactoryMethod.csprojAssemblyReference.cache
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FactoryPattern.FactoryMethod\obj\Debug\netcoreapp3.1\FactoryPattern.FactoryMethod.AssemblyInfoInputs.cache
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FactoryPattern.FactoryMethod\obj\Debug\netcoreapp3.1\FactoryPattern.FactoryMethod.AssemblyInfo.cs
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FactoryPattern.FactoryMethod\obj\Debug\netcoreapp3.1\FactoryPattern.FactoryMethod.csproj.CoreCompileInputs.cache
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FactoryPattern.FactoryMethod\obj\Debug\netcoreapp3.1\FactoryPattern.FactoryMethod.csproj.CopyComplete
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FactoryPattern.FactoryMethod\obj\Debug\netcoreapp3.1\FactoryPattern.FactoryMethod.dll
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FactoryPattern.FactoryMethod\obj\Debug\netcoreapp3.1\FactoryPattern.FactoryMethod.pdb
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FactoryPattern.FactoryMethod\bin\Debug\netcoreapp3.1\FactoryPattern.IFactoryMethod.dll
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FactoryPattern.FactoryMethod\bin\Debug\netcoreapp3.1\FactoryPattern.IFactoryMethod.pdb

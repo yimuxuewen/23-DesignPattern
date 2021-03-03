@@ -1,4 +1,5 @@
-﻿using FactoryPattern.War3.Interface;
+﻿using FactoryPattern.FactoryMethod;
+using FactoryPattern.War3.Interface;
 using FactoryPattern.War3.Service;
 using System;
 
@@ -37,6 +38,20 @@ namespace FactoryPattern_Demo
             {
                 //通过反射创建
                 IRace race = SimpleFactory.GetRaceByReflect();
+                player.Play(race);
+            }
+
+            //{
+            //    //通过工厂方法创建
+            //    IFactory factory = new HumanFactory();
+            //    IRace race = factory.CreateRace();
+            //    player.Play(race);
+            //}
+
+            {
+                //通过配置反射 工厂方法创建
+                IFactory factory = FactoryMethod.GetFactory();
+                IRace race = factory.CreateRace();
                 player.Play(race);
             }
 

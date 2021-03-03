@@ -1,0 +1,12 @@
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FactoryPattern.IFactoryMethod\bin\Debug\netcoreapp3.1\FactoryPattern.IFactoryMethod.deps.json
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FactoryPattern.IFactoryMethod\bin\Debug\netcoreapp3.1\FactoryPattern.IFactoryMethod.dll
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FactoryPattern.IFactoryMethod\bin\Debug\netcoreapp3.1\FactoryPattern.IFactoryMethod.pdb
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FactoryPattern.IFactoryMethod\bin\Debug\netcoreapp3.1\FactoryPattern.War3.Interface.dll
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FactoryPattern.IFactoryMethod\bin\Debug\netcoreapp3.1\FactoryPattern.War3.Interface.pdb
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FactoryPattern.IFactoryMethod\obj\Debug\netcoreapp3.1\FactoryPattern.IFactoryMethod.csprojAssemblyReference.cache
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FactoryPattern.IFactoryMethod\obj\Debug\netcoreapp3.1\FactoryPattern.IFactoryMethod.AssemblyInfoInputs.cache
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FactoryPattern.IFactoryMethod\obj\Debug\netcoreapp3.1\FactoryPattern.IFactoryMethod.AssemblyInfo.cs
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FactoryPattern.IFactoryMethod\obj\Debug\netcoreapp3.1\FactoryPattern.IFactoryMethod.csproj.CoreCompileInputs.cache
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FactoryPattern.IFactoryMethod\obj\Debug\netcoreapp3.1\FactoryPattern.IFactoryMethod.csproj.CopyComplete
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FactoryPattern.IFactoryMethod\obj\Debug\netcoreapp3.1\FactoryPattern.IFactoryMethod.dll
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FactoryPattern.IFactoryMethod\obj\Debug\netcoreapp3.1\FactoryPattern.IFactoryMethod.pdb

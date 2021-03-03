@@ -1,0 +1,8 @@
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FactoryPattern.War3.Interface\bin\Debug\netcoreapp3.1\FactoryPattern.War3.Interface.deps.json
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FactoryPattern.War3.Interface\bin\Debug\netcoreapp3.1\FactoryPattern.War3.Interface.dll
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FactoryPattern.War3.Interface\bin\Debug\netcoreapp3.1\FactoryPattern.War3.Interface.pdb
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FactoryPattern.War3.Interface\obj\Debug\netcoreapp3.1\FactoryPattern.War3.Interface.AssemblyInfoInputs.cache
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FactoryPattern.War3.Interface\obj\Debug\netcoreapp3.1\FactoryPattern.War3.Interface.AssemblyInfo.cs
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FactoryPattern.War3.Interface\obj\Debug\netcoreapp3.1\FactoryPattern.War3.Interface.csproj.CoreCompileInputs.cache
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FactoryPattern.War3.Interface\obj\Debug\netcoreapp3.1\FactoryPattern.War3.Interface.dll
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FactoryPattern.War3.Interface\obj\Debug\netcoreapp3.1\FactoryPattern.War3.Interface.pdb
