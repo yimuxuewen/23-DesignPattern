@@ -1,0 +1,13 @@
+E:\Reaper\23种设计模式\23_DesignPattern_Src\BridgePattern_Demo\bin\Debug\netcoreapp3.1\BridgePattern_Demo.exe
+E:\Reaper\23种设计模式\23_DesignPattern_Src\BridgePattern_Demo\bin\Debug\netcoreapp3.1\BridgePattern_Demo.deps.json
+E:\Reaper\23种设计模式\23_DesignPattern_Src\BridgePattern_Demo\bin\Debug\netcoreapp3.1\BridgePattern_Demo.runtimeconfig.json
+E:\Reaper\23种设计模式\23_DesignPattern_Src\BridgePattern_Demo\bin\Debug\netcoreapp3.1\BridgePattern_Demo.runtimeconfig.dev.json
+E:\Reaper\23种设计模式\23_DesignPattern_Src\BridgePattern_Demo\bin\Debug\netcoreapp3.1\BridgePattern_Demo.dll
+E:\Reaper\23种设计模式\23_DesignPattern_Src\BridgePattern_Demo\bin\Debug\netcoreapp3.1\BridgePattern_Demo.pdb
+E:\Reaper\23种设计模式\23_DesignPattern_Src\BridgePattern_Demo\obj\Debug\netcoreapp3.1\BridgePattern_Demo.csprojAssemblyReference.cache
+E:\Reaper\23种设计模式\23_DesignPattern_Src\BridgePattern_Demo\obj\Debug\netcoreapp3.1\BridgePattern_Demo.AssemblyInfoInputs.cache
+E:\Reaper\23种设计模式\23_DesignPattern_Src\BridgePattern_Demo\obj\Debug\netcoreapp3.1\BridgePattern_Demo.AssemblyInfo.cs
+E:\Reaper\23种设计模式\23_DesignPattern_Src\BridgePattern_Demo\obj\Debug\netcoreapp3.1\BridgePattern_Demo.csproj.CoreCompileInputs.cache
+E:\Reaper\23种设计模式\23_DesignPattern_Src\BridgePattern_Demo\obj\Debug\netcoreapp3.1\BridgePattern_Demo.dll
+E:\Reaper\23种设计模式\23_DesignPattern_Src\BridgePattern_Demo\obj\Debug\netcoreapp3.1\BridgePattern_Demo.pdb
+E:\Reaper\23种设计模式\23_DesignPattern_Src\BridgePattern_Demo\obj\Debug\netcoreapp3.1\BridgePattern_Demo.genruntimeconfig.cache
