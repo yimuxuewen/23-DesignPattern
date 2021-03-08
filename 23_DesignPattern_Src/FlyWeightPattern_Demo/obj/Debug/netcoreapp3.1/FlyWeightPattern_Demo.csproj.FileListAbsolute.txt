@@ -1,0 +1,13 @@
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FlyWeightPattern_Demo\bin\Debug\netcoreapp3.1\FlyWeightPattern_Demo.exe
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FlyWeightPattern_Demo\bin\Debug\netcoreapp3.1\FlyWeightPattern_Demo.deps.json
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FlyWeightPattern_Demo\bin\Debug\netcoreapp3.1\FlyWeightPattern_Demo.runtimeconfig.json
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FlyWeightPattern_Demo\bin\Debug\netcoreapp3.1\FlyWeightPattern_Demo.runtimeconfig.dev.json
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FlyWeightPattern_Demo\bin\Debug\netcoreapp3.1\FlyWeightPattern_Demo.dll
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FlyWeightPattern_Demo\bin\Debug\netcoreapp3.1\FlyWeightPattern_Demo.pdb
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FlyWeightPattern_Demo\obj\Debug\netcoreapp3.1\FlyWeightPattern_Demo.csprojAssemblyReference.cache
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FlyWeightPattern_Demo\obj\Debug\netcoreapp3.1\FlyWeightPattern_Demo.AssemblyInfoInputs.cache
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FlyWeightPattern_Demo\obj\Debug\netcoreapp3.1\FlyWeightPattern_Demo.AssemblyInfo.cs
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FlyWeightPattern_Demo\obj\Debug\netcoreapp3.1\FlyWeightPattern_Demo.csproj.CoreCompileInputs.cache
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FlyWeightPattern_Demo\obj\Debug\netcoreapp3.1\FlyWeightPattern_Demo.dll
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FlyWeightPattern_Demo\obj\Debug\netcoreapp3.1\FlyWeightPattern_Demo.pdb
+E:\Reaper\23种设计模式\23_DesignPattern_Src\FlyWeightPattern_Demo\obj\Debug\netcoreapp3.1\FlyWeightPattern_Demo.genruntimeconfig.cache
