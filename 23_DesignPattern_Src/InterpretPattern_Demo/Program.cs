@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace InterpretPattern_Demo
 {
@@ -17,7 +18,7 @@ namespace InterpretPattern_Demo
             Console.WriteLine($"需要解析的字符串为{str}");
             foreach (var item in baseInterprets)
             {
-                str= item.GetValue(str);
+                str = item.GetValue(str);
             }
             Console.WriteLine($"解释后的字符串为{str}");
             Console.ReadLine();
