@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResponsibilityChainPattern_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPattern_Demo", "CommandPattern_Demo\CommandPattern_Demo.csproj", "{34E73315-C8EC-4174-917D-A2E58B15CDFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorPattern", "IteratorPattern\IteratorPattern.csproj", "{626F3993-8276-4D66-9581-D95ADAE7D4C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -157,6 +159,10 @@ Global
 		{34E73315-C8EC-4174-917D-A2E58B15CDFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34E73315-C8EC-4174-917D-A2E58B15CDFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34E73315-C8EC-4174-917D-A2E58B15CDFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{626F3993-8276-4D66-9581-D95ADAE7D4C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{626F3993-8276-4D66-9581-D95ADAE7D4C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{626F3993-8276-4D66-9581-D95ADAE7D4C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{626F3993-8276-4D66-9581-D95ADAE7D4C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
