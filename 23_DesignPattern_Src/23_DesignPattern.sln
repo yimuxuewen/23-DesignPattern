@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MementoPattern_Demo", "Meme
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern", "ObserverPattern\ObserverPattern.csproj", "{F78F7192-3EB6-48A4-A815-01244376B032}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatePattern_Demo", "StatePattern_Demo\StatePattern_Demo.csproj", "{B40A2EF2-7FC3-4553-89E7-401508D44BA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -181,6 +183,10 @@ Global
 		{F78F7192-3EB6-48A4-A815-01244376B032}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F78F7192-3EB6-48A4-A815-01244376B032}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F78F7192-3EB6-48A4-A815-01244376B032}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B40A2EF2-7FC3-4553-89E7-401508D44BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B40A2EF2-7FC3-4553-89E7-401508D44BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B40A2EF2-7FC3-4553-89E7-401508D44BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B40A2EF2-7FC3-4553-89E7-401508D44BA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
