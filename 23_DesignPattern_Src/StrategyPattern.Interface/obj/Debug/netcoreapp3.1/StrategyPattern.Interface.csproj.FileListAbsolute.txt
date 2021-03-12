@@ -1,0 +1,9 @@
+E:\Reaper\23种设计模式\23_DesignPattern_Src\StrategyPattern.Interface\bin\Debug\netcoreapp3.1\StrategyPattern.Interface.deps.json
+E:\Reaper\23种设计模式\23_DesignPattern_Src\StrategyPattern.Interface\bin\Debug\netcoreapp3.1\StrategyPattern.Interface.dll
+E:\Reaper\23种设计模式\23_DesignPattern_Src\StrategyPattern.Interface\bin\Debug\netcoreapp3.1\StrategyPattern.Interface.pdb
+E:\Reaper\23种设计模式\23_DesignPattern_Src\StrategyPattern.Interface\obj\Debug\netcoreapp3.1\StrategyPattern.Interface.csprojAssemblyReference.cache
+E:\Reaper\23种设计模式\23_DesignPattern_Src\StrategyPattern.Interface\obj\Debug\netcoreapp3.1\StrategyPattern.Interface.AssemblyInfoInputs.cache
+E:\Reaper\23种设计模式\23_DesignPattern_Src\StrategyPattern.Interface\obj\Debug\netcoreapp3.1\StrategyPattern.Interface.AssemblyInfo.cs
+E:\Reaper\23种设计模式\23_DesignPattern_Src\StrategyPattern.Interface\obj\Debug\netcoreapp3.1\StrategyPattern.Interface.csproj.CoreCompileInputs.cache
+E:\Reaper\23种设计模式\23_DesignPattern_Src\StrategyPattern.Interface\obj\Debug\netcoreapp3.1\StrategyPattern.Interface.dll
+E:\Reaper\23种设计模式\23_DesignPattern_Src\StrategyPattern.Interface\obj\Debug\netcoreapp3.1\StrategyPattern.Interface.pdb

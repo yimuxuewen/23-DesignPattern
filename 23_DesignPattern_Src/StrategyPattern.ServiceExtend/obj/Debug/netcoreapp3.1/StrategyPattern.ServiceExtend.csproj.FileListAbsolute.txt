@@ -1,0 +1,12 @@
+E:\Reaper\23种设计模式\23_DesignPattern_Src\StrategyPattern.ServiceExtend\bin\Debug\netcoreapp3.1\StrategyPattern.ServiceExtend.deps.json
+E:\Reaper\23种设计模式\23_DesignPattern_Src\StrategyPattern.ServiceExtend\bin\Debug\netcoreapp3.1\StrategyPattern.ServiceExtend.dll
+E:\Reaper\23种设计模式\23_DesignPattern_Src\StrategyPattern.ServiceExtend\bin\Debug\netcoreapp3.1\StrategyPattern.ServiceExtend.pdb
+E:\Reaper\23种设计模式\23_DesignPattern_Src\StrategyPattern.ServiceExtend\bin\Debug\netcoreapp3.1\StrategyPattern.Interface.dll
+E:\Reaper\23种设计模式\23_DesignPattern_Src\StrategyPattern.ServiceExtend\bin\Debug\netcoreapp3.1\StrategyPattern.Interface.pdb
+E:\Reaper\23种设计模式\23_DesignPattern_Src\StrategyPattern.ServiceExtend\obj\Debug\netcoreapp3.1\StrategyPattern.ServiceExtend.csprojAssemblyReference.cache
+E:\Reaper\23种设计模式\23_DesignPattern_Src\StrategyPattern.ServiceExtend\obj\Debug\netcoreapp3.1\StrategyPattern.ServiceExtend.AssemblyInfoInputs.cache
+E:\Reaper\23种设计模式\23_DesignPattern_Src\StrategyPattern.ServiceExtend\obj\Debug\netcoreapp3.1\StrategyPattern.ServiceExtend.AssemblyInfo.cs
+E:\Reaper\23种设计模式\23_DesignPattern_Src\StrategyPattern.ServiceExtend\obj\Debug\netcoreapp3.1\StrategyPattern.ServiceExtend.csproj.CoreCompileInputs.cache
+E:\Reaper\23种设计模式\23_DesignPattern_Src\StrategyPattern.ServiceExtend\obj\Debug\netcoreapp3.1\StrategyPattern.ServiceExtend.csproj.CopyComplete
+E:\Reaper\23种设计模式\23_DesignPattern_Src\StrategyPattern.ServiceExtend\obj\Debug\netcoreapp3.1\StrategyPattern.ServiceExtend.dll
+E:\Reaper\23种设计模式\23_DesignPattern_Src\StrategyPattern.ServiceExtend\obj\Debug\netcoreapp3.1\StrategyPattern.ServiceExtend.pdb
