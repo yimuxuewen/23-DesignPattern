@@ -23,7 +23,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/supersocket/api/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -88,7 +89,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/supersocket/api/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -147,7 +149,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/supersocket/api/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -202,7 +205,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/supersocket/api/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
